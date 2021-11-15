@@ -1,6 +1,7 @@
 # About Top News Stories Today
 
 This is a simple app which takes data from the newsapi.org api and displays it based on the category selected.
+Only functional in localhost due to free API.
 
 ## Available Scripts
 
